@@ -7,7 +7,7 @@ AccessPress Lite is distributed under the terms of the GNU GPL v3
 Install Steps:
 --------------
 
-1. Activate the theme
+1. Activate the themee
 2. Go to the Theme Option page
 3. Setup theme options
 
